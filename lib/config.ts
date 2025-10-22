@@ -19,5 +19,3 @@ const config = {
 };
 
 export default config;
-// 2:03:39
-// 2:52:40
